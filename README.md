@@ -1,11 +1,16 @@
-# Testing CRUD app using React, Redux, Typescript, Tailwind css with rest API
+# Testing app
 
-Enjoy with this !!! :)
-![image](https://user-images.githubusercontent.com/109362950/198366395-fd60a527-d1a4-450c-9100-a9467485b7de.png)
+## Task description
 
-## Available Scripts
+Your task is to create a table from a list employees and display their logged timesheets either in a modal or a seperate page. Each employees' timesheets must be filterable by month.
 
-In the project directory, you can run:
+Use the technologies that our web app uses (Typescript, Bootstrap/React Bootstrap etc.) and funtional components. Also, use React's Context in some way in your application.
+
+List of employees can be found from the users.json file and timesheets from timesheets.json.
+
+Once you are done push your project to Github and send the link the person you are in contact with.
+
+If you have question don't hesitate to ask.
 
 ### `yarn start`
 
