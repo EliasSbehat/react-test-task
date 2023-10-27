@@ -54,8 +54,6 @@ const Timesheets = () => {
       .catch((err) => err);
   }, []);
   useEffect(() => {
-    console.log(seletedYear, seletedMonth);
-    console.log(tdata);
     if (tdata.length > 0 && seletedYear !== "all" && seletedMonth !== "all") {
       let filteredData: any = [];
       for (let i = 0; i < tdata.length; i++) {
